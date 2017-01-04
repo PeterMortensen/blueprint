@@ -243,7 +243,8 @@
 }
 
 #{section-id("components.table-js")} {
-  .kss-example {
+  .bp-table-container,
+  .docs-react-example {
     height: $pt-grid-size * 30;
   }
 }
